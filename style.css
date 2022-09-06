@@ -32,7 +32,8 @@ button{
     background-color: white;
     margin: 20px;
     box-shadow:3px 3px 3px hsl(228,45%,44%,0.15);
-    border-radius: 15px;
+    border-radius: 20px;
+    overflow:hidden;
     padding-bottom:20px;
 }
 .container .hero{
